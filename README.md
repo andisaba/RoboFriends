@@ -1,11 +1,11 @@
 # robofriends
 Tutorial for React To run the project:
 
-Clone this repo\
+Clone this repo
 
-Run npm install\
+Run npm install
 
-Run npm start\
+Run npm start
 
 
 
